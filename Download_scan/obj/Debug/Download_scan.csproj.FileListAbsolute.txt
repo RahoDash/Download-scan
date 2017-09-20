@@ -1,0 +1,10 @@
+C:\Users\RahoDash\source\repos\Download_scan\Download_scan\bin\Debug\Download_scan.exe.config
+C:\Users\RahoDash\source\repos\Download_scan\Download_scan\bin\Debug\Download_scan.exe
+C:\Users\RahoDash\source\repos\Download_scan\Download_scan\bin\Debug\Download_scan.pdb
+C:\Users\RahoDash\source\repos\Download_scan\Download_scan\obj\Debug\Download_scan.csprojResolveAssemblyReference.cache
+C:\Users\RahoDash\source\repos\Download_scan\Download_scan\obj\Debug\Download_scan.Properties.Resources.resources
+C:\Users\RahoDash\source\repos\Download_scan\Download_scan\obj\Debug\Download_scan.csproj.GenerateResource.Cache
+C:\Users\RahoDash\source\repos\Download_scan\Download_scan\obj\Debug\Download_scan.csproj.CoreCompileInputs.cache
+C:\Users\RahoDash\source\repos\Download_scan\Download_scan\obj\Debug\Download_scan.exe
+C:\Users\RahoDash\source\repos\Download_scan\Download_scan\obj\Debug\Download_scan.pdb
+C:\Users\RahoDash\source\repos\Download_scan\Download_scan\obj\Debug\Download_scan.Form1.resources
